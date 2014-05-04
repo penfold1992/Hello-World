@@ -21,7 +21,7 @@ For use on git bash.
 
 ### Creating a Repo
 
-### Creation
+#### Creation
 
 ```
 $ mkdir ~/Hello-World
@@ -37,7 +37,7 @@ $ touch README
 # Creates a file called "README" in your Hello-World directory
 ```
 
-### Commit your files
+#### Commit your files
 
 ```
 $ git add README
@@ -46,7 +46,7 @@ $ git commit -m 'first commit'
 # Commits your files, adding the message "first commit"
 ```
 
-### Push the Commit
+#### Push the Commit
 
 ```
 $ git remote add origin https://github.com/username/Hello-World.git
@@ -57,14 +57,14 @@ $ git push origin master
 
 ### Fork a Repo
 
-### Clone a Repo
+#### Clone a Repo
 
 ```
 $ git clone https://github.com/username/Spoon-Knife.git
 # Clones your fork of the repository into the current directory in terminal
 ```
 
-### Congifure Remote
+#### Congifure Remote
 
 ```
 $ cd Spoon-Knife
@@ -126,7 +126,7 @@ Task lists can be created by entering
  [More can be found here:](https://github.com/scotch-io/All-Github-Emoji-Icons)
  
 ### Syntax Highlighting
- [More can be found here:](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
+ [More can be found here:](http://tinker.kotaweaver.com/blog/?p=152)
  
 ###Visual Basic
 
