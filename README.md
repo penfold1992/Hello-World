@@ -23,7 +23,7 @@ For use on git bash.
 
 ### Creation
 
-'''
+```
 $ mkdir ~/Hello-World
 # Creates a directory for your project called "Hello-World" in your user directory
 $ cd ~/Hello-World
@@ -35,63 +35,63 @@ $ git init
 
 $ touch README
 # Creates a file called "README" in your Hello-World directory
-'''
+```
 
 ### Commit your files
 
-'''
+```
 $ git add README
 # Stages your README file, adding it to the list of files to be committed
 $ git commit -m 'first commit'
 # Commits your files, adding the message "first commit"
-'''
+```
 
 ### Push the Commit
 
-'''
+```
 $ git remote add origin https://github.com/username/Hello-World.git
 # Creates a remote named "origin" pointing at your GitHub repository
 $ git push origin master
 # Sends your commits in the "master" branch to GitHub
-'''
+```
 
 ### Fork a Repo
 
 ### Clone a Repo
 
-'''
+```
 $ git clone https://github.com/username/Spoon-Knife.git
 # Clones your fork of the repository into the current directory in terminal
-'''
+```
 
 ### Congifure Remote
 
-'''
+```
 $ cd Spoon-Knife
 # Changes the active directory in the prompt to the newly cloned "Spoon-Knife" directory
 $ git remote add upstream https://github.com/octocat/Spoon-Knife.git
 # Assigns the original repository to a remote called "upstream"
 $ git fetch upstream
 # Pulls in changes not present in your local repository, without modifying your files
-'''
+```
 
 ### Additional tools
 
 Pushing a commit back to your remote repository on github
 
-'''
+```
 $ git push origin master
 # Pushes commits to your remote repository stored on GitHub
-'''
+```
 
 Pull in upstream changes
 
-'''
+```
 $ git fetch upstream
 # Fetches any new changes from the original repository
 $ git merge upstream/master
 # Merges any changes fetched into your working files
-'''
+```
 
 More information can be found at these links:
 
