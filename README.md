@@ -95,10 +95,12 @@ $ git merge upstream/master
 
 More information can be found at these links:
 
-[Create a repo](https://help.github.com/articles/create-a-repo)
-[Fork a repo](https://help.github.com/articles/fork-a-repo)
-[Github Guides](https://guides.github.com)
-[Youtube Github Guides](https://www.youtube.com/user/GitHubGuides)
+| Links |
+| ----- |
+| [Create a repo](https://help.github.com/articles/create-a-repo) |
+| [Fork a repo](https://help.github.com/articles/fork-a-repo) |
+| [Github Guides](https://guides.github.com) |
+| [Youtube Github Guides](https://www.youtube.com/user/GitHubGuides) |
 
 ## Readme tips
 
@@ -114,14 +116,14 @@ Task lists can be created by entering
  - [ ] Task 3
  
 ### Emoji's
- :uk: - `:uk:`
- :x: - `:x:`
- :weary: - `:weary:`
- :warning: - `:warning:`
- :unlock: - `:unlock:`
- :-1: - `:-1:`
- :+1: - `:+1:`
- :clap: - `:clap:`
+1. :uk: - `:uk:`
+2. :x: - `:x:`
+3. :weary: - `:weary:`
+4. :warning: - `:warning:`
+5. :unlock: - `:unlock:`
+6. :-1: - `:-1:`
+7. :+1: - `:+1:`
+8. :clap: - `:clap:`
  
  [More can be found here:](https://github.com/scotch-io/All-Github-Emoji-Icons)
  
