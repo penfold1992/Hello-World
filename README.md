@@ -122,13 +122,15 @@ Task lists can be created by entering
  :-1: - `:-1:`
  :+1: - `:+1:`
  :clap: - `:clap:`
+ 
  [More can be found here:](https://github.com/scotch-io/All-Github-Emoji-Icons)
  
 ### Syntax Highlighting
  [More can be found here:](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
+ 
 ###Visual Basic
 
-	```Visual Basic
+	```vb.net
 	Dim num1 As Integer
 	Dim num2 As Integer
 	'Testing VB Commenting
@@ -140,7 +142,7 @@ Task lists can be created by entering
 
 Will produce:
 	
-```Visual Basic
+```vb.net
 Dim num1 As Integer
 Dim num2 As Integer
 'Testing VB Commenting
