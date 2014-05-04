@@ -127,17 +127,19 @@ Task lists can be created by entering
 ### Syntax Highlighting
  [More can be found here:](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 ###Visual Basic
-		```Visual Basic
-		Dim num1 As Integer
-		Dim num2 As Integer
-		'Testing VB Commenting
-		
-		num1 = 5
-		num2 = 10
-		
-		debug.print num1 + num2
-		```
-		
+
+	```Visual Basic
+	Dim num1 As Integer
+	Dim num2 As Integer
+	'Testing VB Commenting
+	
+	num1 = 5
+	num2 = 10
+	debug.print num1 + num2
+	```
+
+Will produce:
+	
 ```Visual Basic
 Dim num1 As Integer
 Dim num2 As Integer
